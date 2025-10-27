@@ -105,10 +105,6 @@ pip install --upgrade xgboost
 
 - Add issues and pull requests on GitHub. Keep data and secrets out of commits (do not add `kaggle.json`).
 
-## License
-
-This project is released under the MIT License — see `LICENSE`.
-
 ## Contact
 
 If you need help running the project or want a polished README with examples and screenshots, I can expand this further.
