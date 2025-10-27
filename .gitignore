@@ -1,0 +1,27 @@
+$@# Python
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+# Environments
+.venv/
+env/
+venv/
+# Data
+*.csv
+data/
+# Models and artifacts
+*.joblib
+*.zip
+# OS
+.DS_Store
+Thumbs.db
+# Jupyter
+.ipynb_checkpoints/
+# logs
+logs/
+rl_logs/
+rl_logs_v2/
+# kaggle
+.kaggle/
+@
