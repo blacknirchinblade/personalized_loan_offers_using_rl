@@ -25,3 +25,5 @@ rl_logs_v2/
 # kaggle
 .kaggle/
 @
+\n# Local history and streamlit\n.history/\n.streamlit/
+\n# TensorBoard logs\ndqn_loan_tensorboard/\ndqn_loan_tensorboard_v2/

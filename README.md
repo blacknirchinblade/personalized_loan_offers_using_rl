@@ -1,0 +1,1 @@
+# Personalized Loan Offers Using RL\n\nThis repo contains code for preprocessing, training baseline models (XGBoost), and prototype RL agents to personalize loan offers. See the notebooks and scripts for details.
